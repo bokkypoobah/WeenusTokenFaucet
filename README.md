@@ -10,7 +10,11 @@ An ERC20 token faucet on the Ethereum mainnet, and Ropsten, Kovan, Rinkeby and G
 
 <br />
 
-Send a 0 value transaction from your account to the contract addresses below on your preferred network and you will receive 1,000 ERC20 tokens for your testing. You will need some ethers (ETH) to pay for the network transaction fees.
+Search in your Ethereum blockchain explorer for **WEENUS** (18 decimals), **XEENUS** (18 decimals), **YEENUS** (8 decimals) or **ZEENUS** (0 decimals).
+
+Send a 0 value transaction from your account to the contract addresses below on your preferred network, and you will receive 1,000 ERC20 test tokens.
+
+You will need some ethers (ETH) to pay for the network transaction fees. See [Testnet Ether Faucets](#testnet-ether-faucets) below to obtain testnet ethers.
 
 <br />
 
@@ -25,7 +29,7 @@ Symbol | Decimals | Faucet Drip Rate | [Mainnet](https://etherscan.io/) | [Ropst
 
 <br />
 
-# Testnet Ether (ETH) Faucets
+# Testnet Ether Faucets
 
 Testnet   | Explorers                     | Testnet ETH Faucets
 :-------- |:----------------------------- |:-------------------------
