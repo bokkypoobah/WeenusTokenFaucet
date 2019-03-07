@@ -8,8 +8,8 @@ pragma solidity ^0.5.4;
 // Symbol      : ZEENUS
 // Name        : Zeenus 💪
 // Total supply: 1,000,000.000000000000000000 + faucet minting
-// Decimals    : 18
-// Deployed to : Ropsten 0x101848D5C5bBca18E6b4431eEdF6B95E9ADF82FA
+// Decimals    : 0
+// Deployed to : {network} {address}
 //
 //
 // Enjoy.
