@@ -10,7 +10,7 @@ An ERC20 token faucet on the Ethereum mainnet, and Ropsten, Kovan, Rinkeby and G
 
 <br />
 
-Send a 0 value transaction to the contract addresses below on your preferred network and you will receive 1,000 ERC20 tokens for your testing.
+Send a 0 value transaction from your account to the contract addresses below on your preferred network and you will receive 1,000 ERC20 tokens for your testing. You will need some ethers (ETH) to pay for the network transaction fees.
 
 <br />
 
@@ -22,6 +22,43 @@ Symbol | Decimals | Faucet Drip Rate | [Mainnet](https://etherscan.io/) | [Ropst
 [ZEENUS](contracts/ZeenusToken.sol) |  0 | 1,000 | [0x0693c3a7](https://etherscan.io/address/0x0693c3a780A0a757E803a4BD76bCf43d438f8806#code) | [0xC84f8B66](https://ropsten.etherscan.io/address/0xC84f8B669Ccb91C86AB2b38060362b9956f2De52#code) | [0x1f9061B9](https://kovan.etherscan.io/address/0x1f9061B953bBa0E36BF50F21876132DcF276fC6e#code) | [0x1f9061B9](https://rinkeby.etherscan.io/address/0x1f9061B953bBa0E36BF50F21876132DcF276fC6e#code) | [0x1f9061B9](https://goerli.etherscan.io/address/0x1f9061B953bBa0E36BF50F21876132DcF276fC6e#code)
 
 <hr />
+
+<br />
+
+# Testnet Ether (ETH) Faucets
+
+Testnet   | Explorers                     | Testnet ETH Faucets
+:-------- |:----------------------------- |:-------------------------
+Ropsten   | https://ropsten.etherscan.io/ |
+Kovan     | https://kovan.etherscan.io/   |
+Rinkeby   | https://rinkeby.etherscan.io/ |
+Görli     | https://goerli.etherscan.io/  |
+
+
+
+
+
+
+
+## Ropsten
+* https://faucet.metamask.io/
+
+## Kovan
+
+* https://github.com/kovan-testnet/faucet
+* https://faucet.kovan.network/
+* https://faucet.kovan.radarrelay.com/
+
+## Rinkeby
+
+* https://faucet.rinkeby.io/
+* https://faucet.metamask.io/
+
+## Görli
+
+* https://faucet.goerli.mudit.blog/
+* https://goerli-faucet.slock.it/
+* https://bridge.goerli.com/
 
 <br />
 
