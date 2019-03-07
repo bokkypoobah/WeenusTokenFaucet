@@ -1,10 +1,16 @@
+<kbd><img src="images/PrincessLeiaPeachExpelsARainbowBigBang-WeenusTokenFaucet.png" /></kbd>
+
+<br />
+
+<hr />
+
 # Weenus Token Faucet 💪
 
 An ERC20 Token Faucet On The Ethereum Mainnet, Ropsten, Kovan, Rinkeby and Görli.
 
 <br />
 
-Simply send a 0 value transaction to the contract addresses in the respective networks and you will receive 1,000 ERC20 tokens to use for your testing.
+Send a 0 value transaction to the contract addresses below on your preferred network and you will receive 1,000 ERC20 tokens for your testing.
 
 <br />
 
