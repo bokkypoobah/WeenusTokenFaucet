@@ -36,6 +36,10 @@ Görli     | https://goerli.etherscan.io/  | https://faucet.goerli.mudit.blog/<b
 
 <br />
 
+Please submit PR with updates to the information above.
+
+<br />
+
 <br />
 
 Enjoy!
