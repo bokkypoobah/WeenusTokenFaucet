@@ -4,7 +4,7 @@
 
 <hr />
 
-# Weenus Token Faucet 💪
+# Weenus 💪 Token Faucet
 
 An ERC20 token faucet on the Ethereum mainnet, and Ropsten, Kovan, Rinkeby and Görli testnets.
 
