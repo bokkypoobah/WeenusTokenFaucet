@@ -29,36 +29,10 @@ Symbol | Decimals | Faucet Drip Rate | [Mainnet](https://etherscan.io/) | [Ropst
 
 Testnet   | Explorers                     | Testnet ETH Faucets
 :-------- |:----------------------------- |:-------------------------
-Ropsten   | https://ropsten.etherscan.io/ |
-Kovan     | https://kovan.etherscan.io/   |
-Rinkeby   | https://rinkeby.etherscan.io/ |
-Görli     | https://goerli.etherscan.io/  |
-
-
-
-
-
-
-
-## Ropsten
-* https://faucet.metamask.io/
-
-## Kovan
-
-* https://github.com/kovan-testnet/faucet
-* https://faucet.kovan.network/
-* https://faucet.kovan.radarrelay.com/
-
-## Rinkeby
-
-* https://faucet.rinkeby.io/
-* https://faucet.metamask.io/
-
-## Görli
-
-* https://faucet.goerli.mudit.blog/
-* https://goerli-faucet.slock.it/
-* https://bridge.goerli.com/
+Ropsten   | https://ropsten.etherscan.io/ | https://faucet.metamask.io/<br />https://twitter.com/BokkyPooBah/status/1099498823699714048
+Kovan     | https://kovan.etherscan.io/   | https://faucet.kovan.network/<br />https://github.com/kovan-testnet/faucet<br />https://faucet.kovan.radarrelay.com/
+Rinkeby   | https://rinkeby.etherscan.io/ | https://faucet.rinkeby.io/<br />https://faucet.metamask.io/
+Görli     | https://goerli.etherscan.io/  | https://faucet.goerli.mudit.blog/<br />https://goerli-faucet.slock.it/<br />https://bridge.goerli.com/
 
 <br />
 
