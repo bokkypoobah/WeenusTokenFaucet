@@ -115,7 +115,7 @@ contract YeenusToken is ERC20Interface, Owned {
     constructor() public {
         symbol = "YEENUS";
         name = "Yeenus 💪";
-        decimals = 18;
+        decimals = 8;
         _totalSupply = 1000000 * 10**uint(decimals);
         _drop = 1000 * 10**uint(decimals);
         balances[owner] = _totalSupply;

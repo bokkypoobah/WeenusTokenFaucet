@@ -115,7 +115,7 @@ contract ZeenusToken is ERC20Interface, Owned {
     constructor() public {
         symbol = "ZEENUS";
         name = "Zeenus 💪";
-        decimals = 18;
+        decimals = 0;
         _totalSupply = 1000000 * 10**uint(decimals);
         _drop = 1000 * 10**uint(decimals);
         balances[owner] = _totalSupply;
