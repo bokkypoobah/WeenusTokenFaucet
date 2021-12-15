@@ -1,0 +1,31 @@
+{
+  "name": "erc20-token-faucet",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "scripts": {
+    "build": "waffle",
+    "test": "export NODE_ENV=test && mocha --timeout 20000",
+    "minify": "npx minify-json ./build/contracts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NotEternal/WeenusTokenFaucet.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NotEternal/WeenusTokenFaucet/issues"
+  },
+  "homepage": "https://github.com/NotEternal/WeenusTokenFaucet#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "dotenv": "^10.0.0",
+    "ethereum-waffle": "^3.4.0",
+    "minify-json": "^1.0.0",
+    "truffle-plugin-verify": "^0.5.20"
+  }
+}

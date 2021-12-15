@@ -1,12 +1,12 @@
 pragma solidity ^0.5.4;
 
 // ----------------------------------------------------------------------------
-// 'WEENUS' 'Weenus 💪' token contract with a faucet minting for testing
+// 'WEENUS' 'Weenus' token contract with a faucet minting for testing
 //
 // Send an 0 value transaction with no data to mint 1,000 new tokens
 //
 // Symbol      : WEENUS
-// Name        : Weenus 💪
+// Name        : Weenus
 // Total supply: 1,000,000.000000000000000000 + faucet minting
 // Decimals    : 18
 // Deployed to : {network} {address}
@@ -114,7 +114,7 @@ contract WeenusToken is ERC20Interface, Owned {
 
     constructor() public {
         symbol = "WEENUS";
-        name = "Weenus 💪";
+        name = "Weenus";
         decimals = 18;
         _totalSupply = 1000000 * 10**uint(decimals);
         _drop = 1000 * 10**uint(decimals);

@@ -1,12 +1,12 @@
 pragma solidity ^0.5.4;
 
 // ----------------------------------------------------------------------------
-// 'ZEENUS' 'Zeenus 💪' token contract with a faucet minting for testing
+// 'ZEENUS' 'Zeenus' token contract with a faucet minting for testing
 //
 // Send an 0 value transaction with no data to mint 1,000 new tokens
 //
 // Symbol      : ZEENUS
-// Name        : Zeenus 💪
+// Name        : Zeenus
 // Total supply: 1,000,000.000000000000000000 + faucet minting
 // Decimals    : 0
 // Deployed to : {network} {address}
@@ -114,7 +114,7 @@ contract ZeenusToken is ERC20Interface, Owned {
 
     constructor() public {
         symbol = "ZEENUS";
-        name = "Zeenus 💪";
+        name = "Zeenus";
         decimals = 0;
         _totalSupply = 1000000 * 10**uint(decimals);
         _drop = 1000 * 10**uint(decimals);

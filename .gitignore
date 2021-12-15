@@ -1,0 +1,10 @@
+.DS_Store
+.project
+.settings
+.env
+
+*lock.json
+
+build*/
+node_modules
+private

@@ -1,12 +1,12 @@
 pragma solidity ^0.5.4;
 
 // ----------------------------------------------------------------------------
-// 'YEENUS' 'Yeenus 💪' token contract with a faucet minting for testing
+// 'YEENUS' 'Yeenus' token contract with a faucet minting for testing
 //
 // Send an 0 value transaction with no data to mint 1,000 new tokens
 //
 // Symbol      : YEENUS
-// Name        : Yeenus 💪
+// Name        : Yeenus
 // Total supply: 1,000,000.000000000000000000 + faucet minting
 // Decimals    : 8
 // Deployed to : {network} {address}
@@ -114,7 +114,7 @@ contract YeenusToken is ERC20Interface, Owned {
 
     constructor() public {
         symbol = "YEENUS";
-        name = "Yeenus 💪";
+        name = "Yeenus";
         decimals = 8;
         _totalSupply = 1000000 * 10**uint(decimals);
         _drop = 1000 * 10**uint(decimals);

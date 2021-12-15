@@ -1,12 +1,12 @@
 pragma solidity ^0.5.4;
 
 // ----------------------------------------------------------------------------
-// 'XEENUS' 'Xeenus 💪' token contract with a faucet minting for testing
+// 'XEENUS' 'Xeenus' token contract with a faucet minting for testing
 //
 // Send an 0 value transaction with no data to mint 1,000 new tokens
 //
 // Symbol      : XEENUS
-// Name        : Xeenus 💪
+// Name        : Xeenus
 // Total supply: 1,000,000.000000000000000000 + faucet minting
 // Decimals    : 18
 // Deployed to : {network} {address}
@@ -114,7 +114,7 @@ contract XeenusToken is ERC20Interface, Owned {
 
     constructor() public {
         symbol = "XEENUS";
-        name = "Xeenus 💪";
+        name = "Xeenus";
         decimals = 18;
         _totalSupply = 1000000 * 10**uint(decimals);
         _drop = 1000 * 10**uint(decimals);
