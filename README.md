@@ -49,4 +49,4 @@ Please submit PR with updates to the information above.
 
 Enjoy!
 
-(c) BokkyPooBah / Bok Consulting Pty Ltd - Sep 15 2020. The MIT Licence.
+(c) BokkyPooBah / Bok Consulting Pty Ltd - Mar 22 2022. The MIT Licence.
