@@ -30,9 +30,9 @@ Symbol | Decimals | Faucet Drip Rate | [ETH Mainnet](https://etherscan.io/) | [A
 [ZEENUS](contracts/ZeenusToken.sol) |  0 | 1,000 | [0x0693c3a7](https://etherscan.io/address/0x0693c3a780A0a757E803a4BD76bCf43d438f8806#code) | [0x07391dbE](https://arbiscan.io/address/0x07391dbE03e7a0DEa0fce6699500da081537B6c3#code) | [0x74C2A141](https://basescan.org/address/0x74C2A14172cF17E8E9afcB32bB1517c4D8f3BB43#code) | [ 0x83377ea9](https://lineascan.build/address/0x83377ea907a08baC9320cE6330993EcabBB48578#code) | [0xb549ea68](https://optimistic.etherscan.io/address/0xb549ea689412EdF64d02Ad09f81c2e4A99faDC9C#code) | [0xe9EF74A6](https://sepolia.etherscan.io/address/0xe9EF74A6568E9f0e42a587C9363C9BcC582dcC6c#code) | [0x1f9061B9](https://goerli.etherscan.io/address/0x1f9061B953bBa0E36BF50F21876132DcF276fC6e#code) | [0x81F4Ce55](https://blockscout.com/poa/xdai/address/0x81F4Ce556E4b47748ad2Ab8878FeE5054CbAB7a2/contracts) | [0x9B20B6C3](https://mumbai.polygonscan.com/address/0x9B20B6C3A60C7B5740d62A3Dcda3713Cb5435e6D)
 [WETH9](https://etherscan.io/address/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2#code) | 18 | Send ETH | [0xC02aaA39](https://etherscan.io/address/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2#code) | [0x82aF4944](https://arbiscan.io/address/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1#code) | [0x42000000](https://basescan.org/address/0x4200000000000000000000000000000000000006#code) | [0xe5D7C2a4](https://lineascan.build/address/0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f#code) | [0x42000000](https://optimistic.etherscan.io/token/0x4200000000000000000000000000000000000006#code) | [0x07391dbE](https://sepolia.etherscan.io/address/0x07391dbE03e7a0DEa0fce6699500da081537B6c3#code) | | |
 
-<hr />
-
 <br />
+
+<hr />
 
 # Testnet Ether Faucets
 
@@ -44,11 +44,44 @@ Polygon(mumbai)     | https://mumbai.polygonscan.com/  | https://faucet.polygon.
 
 <br />
 
+<hr />
+
 # Mainnet xDai Faucet
 
 Mainnet   | Explorers                     | Mainnet xDai Faucets
 :-------- |:----------------------------- |:-------------------------
 Gnosis   | https://gnosisscan.io/ | [https://gnosisfaucet.com/](https://gnosisfaucet.com/)
+
+<br />
+
+<hr />
+
+# Görli Archive At Apr 13 2024
+
+Görli has been deprecated. Here are screenshots of the usage statistics:
+
+![images/WeenusTxs_2024-04-13.png](images/WeenusTxs_2024-04-13.png)
+
+![images/WeenusTransfers_2024-04-13.png](images/WeenusTransfers_2024-04-13.png)
+
+
+![images/XeenusTxs_2024-04-13.png](images/XeenusTxs_2024-04-13.png)
+
+![images/XeenusTransfers_2024-04-13.png](images/XeenusTransfers_2024-04-13.png)
+
+
+
+![images/YeenusTxs_2024-04-13.png](images/YeenusTxs_2024-04-13.png)
+
+![images/YeenusTransfers_2024-04-13.png](images/YeenusTransfers_2024-04-13.png)
+
+
+
+![images/ZeenusTxs_2024-04-13.png](images/ZeenusTxs_2024-04-13.png)
+
+![images/ZeenusTransfers_2024-04-13.png](images/ZeenusTransfers_2024-04-13.png)
+
+
 
 <br />
 
