@@ -6,7 +6,7 @@
 
 # Weenus 💪 Token Faucet
 
-An ERC20 token faucet on the Ethereum mainnet, the Ropsten, Kovan, Rinkeby and Görli testnets, and Gnosis mainnet.
+An ERC20 token faucet on the Ethereum mainnet, some Ethereum L2s, and some testnets.
 
 <br />
 
