@@ -34,7 +34,7 @@ Symbol | Decimals | Faucet Drip Rate | [ETH Mainnet](https://etherscan.io/) | [A
 
 # Testnet Ether Faucets
 
-Check [https://ethereum.org/en/developers/docs/networks/#which-testnet-should-i-use%3F](https://ethereum.org/en/developers/docs/networks/#which-testnet-should-i-use%3F) for the latest information on testnet faucets.
+Check [https://ethereum.org/en/developers/docs/networks/#which-testnet-should-i-use?](https://ethereum.org/en/developers/docs/networks/#which-testnet-should-i-use%3F) for the latest information on testnet faucets.
 
 Testnet   | Explorers                     | Testnet ETH Faucets
 :-------- |:----------------------------- |:-------------------------
