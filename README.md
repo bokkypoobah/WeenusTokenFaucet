@@ -34,12 +34,10 @@ Symbol | Decimals | Faucet Drip Rate | [ETH Mainnet](https://etherscan.io/) | [A
 
 # Testnet Ether Faucets
 
+Check [https://ethereum.org/en/developers/docs/networks/#which-testnet-should-i-use%3F](https://ethereum.org/en/developers/docs/networks/#which-testnet-should-i-use%3F) for the latest information on testnet faucets.
+
 Testnet   | Explorers                     | Testnet ETH Faucets
 :-------- |:----------------------------- |:-------------------------
-Ropsten   | https://ropsten.etherscan.io/ | https://faucet.metamask.io/<br />https://twitter.com/BokkyPooBah/status/1099498823699714048
-Kovan     | https://kovan.etherscan.io/   | https://faucet.kovan.network/<br />https://github.com/kovan-testnet/faucet<br />https://faucet.kovan.radarrelay.com/
-Rinkeby   | https://rinkeby.etherscan.io/ | https://faucet.metamask.io/<br />https://faucet.rinkeby.io/
-Görli     | https://goerli.etherscan.io/  | https://faucet.goerli.mudit.blog/<br />https://goerli-faucet.slock.it/<br />https://bridge.goerli.com/
 Polygon(mumbai)     | https://mumbai.polygonscan.com/  | https://faucet.polygon.technology/
 
 <br />
@@ -60,4 +58,4 @@ Please submit PR with updates to the information above.
 
 Enjoy!
 
-(c) BokkyPooBah / Bok Consulting Pty Ltd - Aug 9 2022. The MIT Licence.
+(c) BokkyPooBah / Bok Consulting Pty Ltd - Apr 13 2024. The MIT Licence.
