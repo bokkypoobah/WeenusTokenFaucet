@@ -8,6 +8,8 @@
 
 An ERC20 token faucet on the Ethereum mainnet, some Ethereum L2s, and some testnets.
 
+For Ethereum Layer 2 chains like Arbitrum, Base and Optimism, search for their official bridges or try something lay https://www.layerswap.io/app, to bridge your ETH from Ethereum Mainnet to the Layer 2. Test in small amounts first.
+
 <br />
 
 Search in your Ethereum blockchain explorer for **WEENUS** (18 decimals), **XEENUS** (18 decimals), **YEENUS** (8 decimals) or **ZEENUS** (0 decimals).
